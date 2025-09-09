@@ -40,6 +40,7 @@ dependencies:
   provider: ^6.1.5 # Add this line
   shared_preferences: ^2.1.0 # Add this line
   dio: ^5.8.0 # Add this line
+  cached_network_image: ^3.3.1 # Optional, for image caching
   flutter_localizations:
     sdk: flutter
   
